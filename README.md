@@ -2,7 +2,7 @@
   <img src = "https://i.ibb.co/mbyJqMB/logo3.png" alt ="Project logo" width = "726">
 </p>
 
-# <a href="https://ivanraichev.github.io/Travell-website/">One-page site</a> for world travel
+# <a href="https://ivanraichev.github.io/Travell-website/">One-page site</a> for world traveling
 
 
 - There is adaptive up to 320px.
